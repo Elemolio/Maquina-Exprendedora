@@ -1,0 +1,47 @@
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\Maquina exprendedora 2.exe.config
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\Maquina exprendedora 2.exe
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\Maquina exprendedora 2.pdb
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\Google.Protobuf.dll
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\MySql.Data.dll
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\System.Buffers.dll
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\System.Memory.dll
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\ZstdSharp.dll
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\Google.Protobuf.pdb
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\Google.Protobuf.xml
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\MySql.Data.xml
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\System.Buffers.xml
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\System.Memory.xml
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\obj\Debug\Maquina exprendedora 2.csproj.AssemblyReference.cache
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\obj\Debug\MainWindow.baml
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\obj\Debug\MainWindow.g.cs
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\obj\Debug\App.g.cs
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\obj\Debug\Maquina exprendedora 2_MarkupCompile.cache
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\obj\Debug\Maquina exprendedora 2.g.resources
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\obj\Debug\Maquina_exprendedora_2.Properties.Resources.resources
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\obj\Debug\Maquina exprendedora 2.csproj.GenerateResource.cache
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\obj\Debug\Maquina exprendedora 2.csproj.CoreCompileInputs.cache
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\obj\Debug\Maquina exprendedora 2.csproj.CopyComplete
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\obj\Debug\Maquina exprendedora 2.exe
+C:\Users\Emilio\source\repos\Maquina exprendedora 2\Maquina exprendedora 2\obj\Debug\Maquina exprendedora 2.pdb
